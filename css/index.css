@@ -1,10 +1,10 @@
 * {
-    box-sizing: border-box;
+    box-sizing: border-box !important;
 }
 
 .card {
-    min-width: 30%;
-    max-width: 30%;
+    min-width: 32%;
+    max-width: 32%;
     margin: 3px 5px;
     border: 1px solid #ccc !important;
 }
