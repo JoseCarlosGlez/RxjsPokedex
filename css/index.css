@@ -6,5 +6,9 @@
     min-width: 30%;
     max-width: 30%;
     margin: 3px 5px;
-    border: 1px solid #ccc !important;
+}
+
+.card:hover{
+    transition: 0.3s ease;
+    transform: scale(1.05);
 }
